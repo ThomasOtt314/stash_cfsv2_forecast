@@ -1,0 +1,1 @@
+This code extracts today's median and mean ensamble ETo values from cfsv2 asset. 
